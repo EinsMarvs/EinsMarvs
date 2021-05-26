@@ -361,9 +361,6 @@
 
 			setLabelsByLanguage () {
 				switch (BDFDB.LanguageUtils.getLanguage().id) {
-					case "bg":		// Bulgarian
-						return {
-						};
 					case "de":		// German
 						return {
 							context_dms:						"Direktnachrichten",
