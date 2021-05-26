@@ -4,7 +4,7 @@ Hey ich  bin Marvin und 16 Jahre alt.
 Ich bin relativ neu in der Programmierwelt und möchte euch bei meinen neuen Projekten teilhaben lassen :D Ich hoffe es gefällt euch.
 
 --------------------------------------
-In dieser Auflistung sehen sie kurze Details zu meinen  bisherigen Projekten:
+In dieser Auflistung sehen sie kurze Details zu meinen bisherigen Projekten:
 
 1. EinsGelesen - Ein Plugin für BetterDiscord
 
