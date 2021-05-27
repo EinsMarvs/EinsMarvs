@@ -1,8 +1,9 @@
 /**
  * @name EinsOrdner
  * @author EinsMarvs
- * @version 1.0.0
+ * @version 1.0.1
  * @description Lässt deine Server in Benutzerdefinierte Ordner unterteilen | Made by EinsMarvs | BETA-VERSION
+ * @updated on 27.05.2021, 22:16
  */
 
  module.exports = (_ => {
