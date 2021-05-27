@@ -7,6 +7,7 @@ Ich bin relativ neu in der Programmierwelt und möchte euch bei meinen neuen Pro
 In dieser Auflistung sehen sie kurze Details zu meinen bisherigen Projekten:
 
 1. EinsGelesen - Ein Plugin für BetterDiscord
+2. EinsOrdner - Ein Plugin für BetterDiscord
 
 
 ENGLISH:
@@ -18,3 +19,4 @@ I'm relatively new to the programming world and would like to share my new proje
 In this list you can see short details about my previous projects:
 
 1. EinsGelesen - A plugin for BetterDiscord
+2. EinsOrdner - A plugin for BetterDiscord
