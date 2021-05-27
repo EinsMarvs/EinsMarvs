@@ -11,7 +11,7 @@
 		"info": {
 			"name": "EinsOrdner",
 			"author": "EinsMarvs",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"description": "Lässt deine Server in Benutzerdefinierte Ordner unterteilen | Made by EinsMarvs | BETA-VERSION"
 		},
 		"changeLog": {
