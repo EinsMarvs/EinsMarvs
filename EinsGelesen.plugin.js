@@ -1,9 +1,8 @@
 /**
  * @name EinsGelesen
  * @author EinsMarvs
- * @version 1.0.1
+ * @version 1.2
  * @description Fügt der Serverliste und dem Erwähnungs-Popup eine Schaltfläche "Löschen" hinzu | Made by EinsMarvs | BETA-VERSION
- * @Updated on 26.05.2021, 21:35
  */
 
  module.exports = (_ => {
@@ -13,6 +12,11 @@
 			"author": "EinsMarvs",
 			"version": "1.0.1",
 			"description": "Fügt der Serverliste und dem Erwähnungs-Popup eine Schaltfläche 'Löschen' hinzu | Made by EinsMarvs | BETA-VERSION"
+		},
+		"changeLog": {
+			"fixed": {
+				"Recode gestartet & Fehlerbehebungen durchgeführt.": ""
+		    }
 		}
 	};
 
@@ -25,7 +29,7 @@
 		downloadLibrary () {
 			require("request").get("https://mwittrien.github.io/BetterDiscordAddons/Library/0BDFDB.plugin.js", (e, r, b) => {
 				if (!e && b && r.statusCode == 200) require("fs").writeFile(require("path").join(BdApi.Plugins.folder, "0BDFDB.plugin.js"), b, _ => BdApi.showToast("Finished downloading BDFDB Library", {type: "success"}));
-				else BdApi.alert("Fehler", "Das BDFDB Library Plugin konnte nicht heruntergeladen werden. Versuchen Sie es später erneut oder laden Sie es manuell von GitHub herunter: https://mwittrien.github.io/downloader/?library");
+				else BdApi.alert("Fehler", "Das BDFDB Bibliotheks-Plugin konnte nicht heruntergeladen werden. Versuchen Sie es später erneut oder laden Sie es manuell von GitHub herunter: https://mwittrien.github.io/downloader/?library");
 			});
 		}
 		
