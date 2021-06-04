@@ -1,7 +1,7 @@
 /**
  * @name EinsOrdner
  * @author EinsMarvs
- * @version 1.0.1
+ * @version 1.1
  * @description Lässt deine Server in Benutzerdefinierte Ordner unterteilen | Made by EinsMarvs | BETA-VERSION
  * @updated on 27.05.2021, 22:16
  */
@@ -11,12 +11,12 @@
 		"info": {
 			"name": "EinsOrdner",
 			"author": "EinsMarvs",
-			"version": "1.0.1",
+			"version": "1.1",
 			"description": "Lässt deine Server in Benutzerdefinierte Ordner unterteilen | Made by EinsMarvs | BETA-VERSION"
 		},
 		"changeLog": {
 			"fixed": {
-				"Mentioned Bar": "Wird für geordnete Server nicht mehr in der Extra-Spalte angezeigt"
+				"Erwähnungsanzeige": "Wird für geordnete Server nicht mehr in der Extra-Spalte angezeigt"
 			},
 		}
 	};
