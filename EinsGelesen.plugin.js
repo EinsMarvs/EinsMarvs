@@ -10,7 +10,7 @@
 		"info": {
 			"name": "EinsGelesen",
 			"author": "EinsMarvs",
-			"version": "1.0.1",
+			"version": "1.2",
 			"description": "Fügt der Serverliste und dem Erwähnungs-Popup eine Schaltfläche 'Löschen' hinzu | Made by EinsMarvs | BETA-VERSION"
 		},
 		"changeLog": {
