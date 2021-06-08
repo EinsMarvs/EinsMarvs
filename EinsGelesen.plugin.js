@@ -1,7 +1,7 @@
 /**
  * @name EinsGelesen
  * @author EinsMarvs
- * @version 1.2
+ * @version 1.4
  * @description Fügt der Serverliste und dem Erwähnungs-Popup eine Schaltfläche "Löschen" hinzu | Made by EinsMarvs | BETA-VERSION
  */
 
@@ -10,12 +10,12 @@
 		"info": {
 			"name": "EinsGelesen",
 			"author": "EinsMarvs",
-			"version": "1.2",
-			"description": "Fügt der Serverliste und dem Erwähnungs-Popup eine Schaltfläche 'Löschen' hinzu | Made by EinsMarvs | BETA-VERSION"
+			"version": "1.4",
+			"description": "Fügt der Serverliste und dem Erwähnungs-Popup eine Schaltfläche 'Alle lesen' hinzu | Made by EinsMarvs | BETA-VERSION"
 		},
 		"changeLog": {
 			"fixed": {
-				"Recode gestartet & Fehlerbehebungen durchgeführt.": ""
+				"Fehler behoben | Patch 1.4 veröffentlicht": "Patch 1.4: Verbesserung in der Config hinzugefügt und Fehler dessen behoben"
 		    }
 		}
 	};
