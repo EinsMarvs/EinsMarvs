@@ -26,5 +26,5 @@ In this list you can see short details about my previous projects:
 2. EinsOrdner - A plugin for BetterDiscord
 
 --------------------------------------
-These plug-ins may not be sold, nor may they be passed off as one's own.
+These plugins may not be sold, nor may they be passed off as one's own.
 --------------------------------------
