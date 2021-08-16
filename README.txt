@@ -9,6 +9,10 @@ In dieser Auflistung sehen sie kurze Details zu meinen bisherigen Projekten:
 1. EinsGelesen - Ein Plugin für BetterDiscord
 2. EinsOrdner - Ein Plugin für BetterDiscord
 
+--------------------------------------
+Diese Plugins dürfen weder verkauft, noch dürfen sie als sein eigenes ausgegeben werden.
+--------------------------------------
+
 
 ENGLISH:
 
@@ -20,3 +24,7 @@ In this list you can see short details about my previous projects:
 
 1. EinsGelesen - A plugin for BetterDiscord
 2. EinsOrdner - A plugin for BetterDiscord
+
+--------------------------------------
+These plug-ins may not be sold, nor may they be passed off as one's own.
+--------------------------------------
