@@ -1,6 +1,6 @@
 GERMAN:
 
-Hey ich  bin Marvin und 16 Jahre alt.
+Hey ich  bin Marvin und 17 Jahre alt.
 Ich bin relativ neu in der Programmierwelt und möchte euch bei meinen neuen Projekten teilhaben lassen :D Ich hoffe es gefällt euch.
 
 --------------------------------------
@@ -16,7 +16,7 @@ Diese Plugins dürfen weder verkauft, noch dürfen sie als sein eigenes ausgegeb
 
 ENGLISH:
 
-Hey I'm Marvin and I'm 16 years old.
+Hey I'm Marvin and I'm 17 years old.
 I'm relatively new to the programming world and would like to share my new projects with you :D I hope you like it.
 
 --------------------------------------
